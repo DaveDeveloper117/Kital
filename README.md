@@ -36,14 +36,12 @@ Después de instalar Kital, puedes probar las diferentes funciones de la aplicac
 
 A continuación se muestran algunas imágenes de demostración de la aplicación Kital:
 
-<img src="assets/screen_5-min.png" alt="perfil" width="300"> <img src="assets/screen_1-min.png" alt="login" width="300"> <img src="assets/screen_2.png" alt="inicio" width="300"> 
-
-<img src="assets/screen_3-min.png" alt="ofertas" width="300"> <img src="assets/screen_4.png" alt="carrito" width="300"> 
+<img src="assets/screen_5-min.png" alt="perfil" width="300"> <img src="assets/screen_1-min.png" alt="login" width="300"> <img src="assets/screen_2.png" alt="inicio" width="300"> <img src="assets/screen_3-min.png" alt="ofertas" width="300"> <img src="assets/screen_4.png" alt="carrito" width="300"> 
 
 ## Live Demo
 
 Puedes probar una demo en vivo de Kital en el siguiente enlace: [KitalLiveDemo](https://appetize.io/app/oklmh2jobdienjmfjzvrvk5vde)
 
-##Licencia
+## Licencia
 
 Kital se distribuye bajo la Licencia MIT. Para más información, consulta el archivo [LICENSE](https://github.com/DaveDeveloper117/Kital/blob/main/LICENSE) en este repositorio.
