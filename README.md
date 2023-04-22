@@ -44,4 +44,4 @@ Puedes probar una demo en vivo de Kital en el siguiente enlace: [KitalLiveDemo](
 
 ## Licencia
 
-Kital se distribuye bajo la Licencia MIT. Para más información, consulta el archivo [LICENSE](https://github.com/DaveDeveloper117/Kital/blob/main/LICENSE) en este repositorio.
+Kital se distribuye bajo la Licencia MIT. Para más información, consulta el archivo [LICENSE](https://github.com/DaveDeveloper117/Kital/blob/master/LICENSE) en este repositorio.
